@@ -14,6 +14,7 @@ namespace SampleMailApplication
             try
             {
                 SmtpMail oMail = new SmtpMail("TryIt");
+				//sample demo
 
                 // Your gmail email address
                 oMail.From = "venkat452143@gmail.com";
