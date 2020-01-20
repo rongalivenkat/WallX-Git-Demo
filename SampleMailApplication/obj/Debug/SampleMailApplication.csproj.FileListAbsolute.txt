@@ -1,0 +1,7 @@
+D:\WallX & MeetingWall Versions (15-11-2019)\Version 1.18 (MeetingWall Table name change)\SampleMailApplication\SampleMailApplication\bin\Debug\SampleMailApplication.exe.config
+D:\WallX & MeetingWall Versions (15-11-2019)\Version 1.18 (MeetingWall Table name change)\SampleMailApplication\SampleMailApplication\bin\Debug\SampleMailApplication.exe
+D:\WallX & MeetingWall Versions (15-11-2019)\Version 1.18 (MeetingWall Table name change)\SampleMailApplication\SampleMailApplication\bin\Debug\SampleMailApplication.pdb
+D:\WallX & MeetingWall Versions (15-11-2019)\Version 1.18 (MeetingWall Table name change)\SampleMailApplication\SampleMailApplication\bin\Debug\EASendMail.dll
+D:\WallX & MeetingWall Versions (15-11-2019)\Version 1.18 (MeetingWall Table name change)\SampleMailApplication\SampleMailApplication\obj\Debug\SampleMailApplication.csprojResolveAssemblyReference.cache
+D:\WallX & MeetingWall Versions (15-11-2019)\Version 1.18 (MeetingWall Table name change)\SampleMailApplication\SampleMailApplication\obj\Debug\SampleMailApplication.exe
+D:\WallX & MeetingWall Versions (15-11-2019)\Version 1.18 (MeetingWall Table name change)\SampleMailApplication\SampleMailApplication\obj\Debug\SampleMailApplication.pdb
